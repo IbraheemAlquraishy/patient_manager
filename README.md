@@ -10,5 +10,8 @@ follow the steps below.
 
 in terminal:
 git clone https://github.com/IbraheemAlquraishy/patient_manager.git 
+
 cd patient_manager
+
+
 g++ patient_manager.cpp -o patient_manager
